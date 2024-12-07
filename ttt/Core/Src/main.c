@@ -104,8 +104,7 @@ int main(void)
   MX_GPIO_Init();
   MX_SPI1_Init();
   /* USER CODE BEGIN 2 */
-
-
+  Dotmatrix_init();
 
   /* USER CODE END 2 */
 
